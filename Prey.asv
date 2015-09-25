@@ -1,0 +1,12 @@
+classdef Prey
+    %Implmentation of the Lotka-Voltera prey model
+    %   Detailed explanation goes here
+    
+    properties
+    end
+    
+    methods
+    end
+    
+end
+

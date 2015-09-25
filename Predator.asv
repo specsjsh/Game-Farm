@@ -1,0 +1,13 @@
+classdef Predator
+    %Implmentation of the Lotka-Voltera predator model
+    %   Detailed explanation goes here
+    
+    properties
+        alpha
+    end
+    
+    methods
+    end
+    
+end
+
